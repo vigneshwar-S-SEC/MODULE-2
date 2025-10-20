@@ -177,7 +177,7 @@ Write a C program to find and display all odd numbers and their total sum within
 8. Stop.
 
 ## Program:
-    ```
+ ```
 #include <stdio.h>
 int main(){
     int i,a,b,sum=0;
@@ -191,6 +191,7 @@ int main(){
     printf("\n%d",sum);
     return 0;
 }
+
 ```
 
 ## Output:
@@ -238,6 +239,7 @@ int main(){
     }
     return 0;
 }
+
 ```
 
 ## Output:
